@@ -1,0 +1,12 @@
+tipo:Low-Cost:8000:500000.0
+tipo:Extra:20000:100.0
+tipo:Corriente:16000:250000.0
+tipo:Disel:13000:80.0
+surtidor:Jhon:Low-Cost:0.0:Extra:0.0:Corriente:0.0:Disel:0.0
+surtidor:Raul:Low-Cost:0.0:Extra:0.0:Corriente:0.0:Disel:0.0
+surtidor:Raul:Low-Cost:0.0:Extra:0.0:Corriente:0.0:Disel:0.0
+surtidor:Kath:Low-Cost:0.0:Extra:0.0:Corriente:0.0:Disel:0.0
+empleado:Raul:0
+empleado:Kath:0
+empleado:Paula:0
+empleado:Jhon:0
